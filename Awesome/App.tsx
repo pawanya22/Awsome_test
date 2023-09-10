@@ -8,6 +8,7 @@ export default class App extends React.Component {
     <View style={styles.container}>
         <Text>open up App to start working on your app!</Text>
         <Text>New git hub</Text>
+        <Text>I can finish this task</Text>
     </View>
   );
   }
